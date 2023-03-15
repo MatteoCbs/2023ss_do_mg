@@ -10,7 +10,11 @@ First, let’s see the difference between an Exponential and a Linear Organizati
 
 ![Alt text](main-qimg-148924c2302f2900a1d4ff35e27cffca.webp)
 
-### source: quora.com
+Do you see the difference? As the picture says, that is called disruption.
+
+---
+
+An ExO is one that is ten times better, faster, and cheaper than the others, because it has technology as its primary asset. It’s based on technology and as technology evolves and becomes cheaper, so does the organization leveraging it.
 
 ---
 
