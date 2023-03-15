@@ -4,6 +4,8 @@
 
 An exponential organization (ExO) uses innovative organizational strategies that take advantage of evolving technology to have an impact that is disproportionately large relative to that of its peers.
 
+In general, the growth rate of these organizations is ten times faster than that of their competitors. All this is possible due to the fact that these business models use, in a strategic and efficient way, technological innovations based on market demand and needs.
+
 ---
 
 First, let’s see the difference between an Exponential and a Linear Organization:
