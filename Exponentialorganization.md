@@ -14,6 +14,8 @@ Do you see the difference? As the picture says, that is called disruption.
 
 ---
 
+### Why?
+
 An ExO is one that is ten times better, faster, and cheaper than the others, because it has technology as its primary asset. It’s based on technology and as technology evolves and becomes cheaper, so does the organization leveraging it.
 
 ---
